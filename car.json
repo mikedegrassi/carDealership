@@ -1,0 +1,115 @@
+{
+  "dealerships": [
+    {
+      "id": 1,
+      "brand": "audi",
+      "capBrand": "Audi",
+      "title": "Audi Centrum Rotterdam",
+      "location": "Zuiderparkweg 620 • 3084 CD Rotterdam",
+      "longlat": {
+        "longitude": 4.4810354145834275,
+        "latitude": 51.8681478744997
+      }
+    },
+    {
+      "id": 2,
+      "brand": "audi",
+      "capBrand": "Audi",
+      "title": "M. de Koning Audi dealer",
+      "location": "Wormerhoek 5 • 2905 TX Capelle aan den IJssel",
+      "longlat": {
+        "longitude": 4.601198373897282,
+        "latitude": 51.94524700614586
+      }
+    },
+    {
+      "id": 3,
+      "brand": "audi",
+      "capBrand": "Audi",
+      "title": "Auto Hoogenboom Volkswagen & Audi",
+      "location": "Landaulettestraat 9 • 3063 NR Rotterdam",
+      "longlat": {
+        "longitude": 4.550043285503669,
+        "latitude": 51.912644294128235
+      }
+    },
+    {
+      "id": 4,
+      "brand": "mercedes",
+      "capBrand": "Mercedes",
+      "title": "Van Mossel Mercedes-Benz Rotterdam",
+      "location": "Schuttevaerweg 20 • 3044 BB Rotterdam",
+      "longlat": {
+        "longitude": 4.411340808655017,
+        "latitude": 51.93545352083867
+      }
+    },
+    {
+      "id": 5,
+      "brand": "mercedes",
+      "capBrand": "Mercedes",
+      "title": "Van Mossel Rotterdam Charlois personenwagens",
+      "location": "Driemanssteeweg 690A • 3084 CB Rotterdam",
+      "longlat": {
+        "longitude": 4.474855515720911,
+        "latitude": 51.86448627122728
+      }
+    },
+    {
+      "id": 6,
+      "brand": "mercedes",
+      "capBrand": "Mercedes",
+      "title": "Van Mossel Rotterdam Autostrada",
+      "location": "Autolettestraat 4 • 3063 NP Rotterdam",
+      "longlat": {
+        "longitude": 4.53939152335857,
+        "latitude": 51.91323271998887
+      }
+    },
+    {
+      "id": 7,
+      "brand": "mercedes",
+      "capBrand": "Mercedes",
+      "title": "Hogenbirk Vans - Rotterdam",
+      "location": "Driemanssteeweg 20 • 3084 CB Rotterdam",
+      "longlat": {
+        "longitude": 4.453668867534228,
+        "latitude": 51.872259303879716
+      }
+    },
+    {
+      "id": 8,
+      "brand": "bmw",
+      "capBrand": "BMW",
+      "title": "Severs Breeman BMW & MINI Rotterdam-Noord",
+      "location": "Autolettestraat 20 • 3063 NP Rotterdam",
+      "longlat": {
+        "longitude": 4.535966874074463,
+        "latitude": 51.91274103111501
+      }
+    },
+    {
+      "id": 9,
+      "brand": "bmw",
+      "capBrand": "BMW",
+      "title": "Severs Breeman BMW & MINI Rotterdam-Zuid",
+      "location": "Driemanssteeweg 130 • 3084 CB Rotterdam",
+      "longlat": {
+        "longitude": 4.462152484781666,
+        "latitude": 51.86697273637862
+      }
+    },
+    {
+      "id": 10,
+      "brand": "bmw",
+      "capBrand": "BMW",
+      "title": "Kalfsbeek BMW and MINI",
+      "location": "Karel Doormanweg 21 • 3115 JD Schiedam",
+      "longlat": {
+        "longitude": 4.372345248741979,
+        "latitude": 51.910956777111075
+      }
+    }
+  ]
+}
+
